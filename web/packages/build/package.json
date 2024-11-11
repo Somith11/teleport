@@ -41,7 +41,7 @@
     "@storybook/builder-webpack5": "^6.5.16",
     "@storybook/components": "^6.5.16",
     "@storybook/manager-webpack5": "^6.5.16",
-    "@storybook/react": "^6.5.16",
+    "@storybook/react": "^7.0.0",
     "@swc/plugin-styled-components": "^1.5.87",
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^12.1.2",
@@ -62,7 +62,7 @@
     "clean-webpack-plugin": "4.0.0",
     "core-js": "^3",
     "cross-env": "5.0.5",
-    "cross-spawn": "6.0.5",
+    "cross-spawn": "7.0.5",
     "electron-builder": "^24.4.0",
     "eslint": "^8.50.0",
     "eslint-import-resolver-typescript": "^3.6.1",
@@ -97,7 +97,7 @@
     "webpack": "^5.76.2",
     "webpack-bundle-analyzer": "^4.6.1",
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.9.3"
+    "webpack-dev-server": "^5.1.0"
   },
   "devDependencies": {
     "msw-storybook-addon": "^1.8.0"
